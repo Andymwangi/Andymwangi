@@ -21,20 +21,14 @@ I'm a results-driven Full Stack Developer from Nairobi, Kenya, with 3+ years of 
 - **5,000+ Orders** handled by e-commerce platforms in first year
 
 ### Tech Stack
-Frontend
-React.js • Next.js • Vue.js • TypeScript • JavaScript • HTML5 • CSS3
-Backend
-Node.js • Express.js • Python • FastAPI • Flask • Django
-Databases & Caching
-MongoDB • PostgreSQL • Redis
-APIs & Integration
-RESTful APIs • GraphQL • API Integration
-DevOps & Tools
-Docker • Git • GitHub • CI/CD Pipelines • Version Control
-Security
-Authentication Systems • Data Encryption • Role-Based Access Control (RBAC)
-Currently Learning
-Backend Development @ ALX • Advanced System Architecture
+
+- **Frontend**: React.js, Next.js, Vue.js, TypeScript, JavaScript, HTML5, CSS3
+- **Backend**: Node.js, Express.js, Python, FastAPI, Flask, Django
+- **Databases** & Caching: MongoDB, PostgreSQL, Redis
+- **APIs** & Integration: RESTful APIs, GraphQL, API Integration
+- **DevOps & Tools**: Docker, Git, GitHub, CI/CD Pipelines, Version Control
+- **Security**: Authentication Systems, Data Encryption, Role-Based Access Control (RBAC)
+- **Currently Learning**: Backend Development @ ALX, Advanced System Architecture
 
 ### Featured Projects
 
