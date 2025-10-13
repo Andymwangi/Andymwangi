@@ -54,8 +54,6 @@ Full-stack platform processing 5,000+ orders, increasing vendor revenue by 65%
 
 ### GitHub Stats
 
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andymwangi&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andymwangi&layout=compact&theme=radical)
 
 ### Let's Connect
