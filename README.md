@@ -75,9 +75,16 @@ const anderson = {
 
 <div align="center">
 
-![Anderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andymwangi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andymwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andymwangi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Anderson's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andymwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Andymwangi&theme=tokyonight&hide_border=true)
 
