@@ -1,7 +1,7 @@
 <div align="center">
 
 # Anderson Mwangi
-### Full Stack Developer | Building Secure, Scalable Web Solutions
+### Full Stack Developer | Building Secure, Scalable Web & Mobile Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-mwangi/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.mitamboo@gmail.com)
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Results-driven Full Stack Developer from **Nairobi, Kenya** with **3+ years** of experience crafting secure, high-performance web applications. I specialize in modern JavaScript ecosystems, scalable backend architectures, and delivering measurable business impact through clean, maintainable code.
+Results-driven Full Stack Developer from **Nairobi, Kenya** with **3+ years** of experience crafting secure, high-performance web and mobile applications. I specialize in modern JavaScript ecosystems, scalable backend architectures, and delivering measurable business impact through clean, maintainable code.
 
 ```typescript
 const anderson = {
