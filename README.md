@@ -11,23 +11,23 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Results-driven Full Stack Developer from **Nairobi, Kenya** with **3+ years** of experience crafting secure, high-performance web applications. I specialize in modern JavaScript ecosystems, scalable backend architectures, and delivering measurable business impact through clean, maintainable code.
 
 ```typescript
 const anderson = {
-  role:       "Full Stack Developer",
-  location:   "Nairobi, Kenya 🇰🇪",
-  focus:      ["Secure Web Apps", "Scalable APIs", "Microservices"],
-  available:  ["Freelance", "Full-time", "Open Source Collaboration"],
-  learning:   ["ALX Backend Development", "Advanced System Architecture"],
+  role:      "Full Stack Developer",
+  location:  "Nairobi, Kenya",
+  focus:     ["Secure Web Apps", "Scalable APIs", "Microservices"],
+  available: ["Freelance", "Full-time", "Open Source Collaboration"],
+  learning:  ["ALX Backend Development", "Advanced System Architecture"],
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -71,7 +71,7 @@ const anderson = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -79,40 +79,40 @@ const anderson = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andymwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andymwangi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Andymwangi&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📈 Impact by Numbers
+## Impact by Numbers
 
 | Metric | Result |
 |---|---|
-| 🚀 Client Projects | **15+** delivered with measurable business impact |
-| 💰 Cost Reduction | **70%** in enterprise applications |
-| ⚡ API Performance | **50%** response time improvement |
-| 📄 Documents Processed | **100,000+** through secure file systems |
-| 🛒 Orders Handled | **5,000+** via e-commerce platforms |
+| Client Projects | **15+** delivered with measurable business impact |
+| Cost Reduction | **70%** in enterprise applications |
+| API Performance | **50%** response time improvement |
+| Documents Processed | **100,000+** through secure file systems |
+| Orders Handled | **5,000+** via e-commerce platforms |
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 🎓 **BSc Information Technology** — JKUAT *(2025)*
-- 🛡️ **Cisco CyberOps Certificate** *(2025)*
-- 📊 **IBM Data Engineering & Python for Data Science** *(2024)*
-- 🔐 **Junior Cybersecurity Analyst** — Cisco *(2024)*
-- ⚙️ **ALX Backend Development** *(Ongoing)*
+- **BSc Information Technology** — JKUAT *(2025)*
+- **Cisco CyberOps Certificate** *(2025)*
+- **IBM Data Engineering & Python for Data Science** *(2024)*
+- **Junior Cybersecurity Analyst** — Cisco *(2024)*
+- **ALX Backend Development** *(Ongoing)*
 
 ---
 
-## 🔭 Currently
+## Currently
 
-- 📚 Completing **ALX Backend Development** course
-- 🏗️ Building **scalable microservices** architectures
-- 🌍 Contributing to **open-source** projects
-- ☁️ Exploring **advanced cloud deployment** strategies on AWS
+- Completing **ALX Backend Development** course
+- Building **scalable microservices** architectures
+- Contributing to **open-source** projects
+- Exploring **advanced cloud deployment** strategies on AWS
 
 ---
 
