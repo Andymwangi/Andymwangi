@@ -114,6 +114,6 @@ const anderson = {
 
 <div align="center">
 
-*Open to Freelance Projects • Full-time Opportunities • Collaboration*
+*Open to Freelance Projects  • Collaboration*
 
 </div>
