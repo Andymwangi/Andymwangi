@@ -81,35 +81,6 @@ const anderson = {
 
 ---
 
-## Impact by Numbers
-
-| Metric | Result |
-|---|---|
-| Client Projects | **15+** delivered with measurable business impact |
-| Cost Reduction | **70%** in enterprise applications |
-| API Performance | **50%** response time improvement |
-| Documents Processed | **100,000+** through secure file systems |
-| Orders Handled | **5,000+** via e-commerce platforms |
-
----
-
-## Education & Certifications
-
-- **BSc Information Technology** — JKUAT *(2025)*
-- **Cisco CyberOps Certificate** *(2025)*
-- **IBM Data Engineering & Python for Data Science** *(2024)*
-- **Junior Cybersecurity Analyst** — Cisco *(2024)*
-- **ALX Backend Development** *(Ongoing)*
-
----
-
-## Currently
-
-- Completing **ALX Backend Development** course
-- Building **scalable microservices** architectures
-- Contributing to **open-source** projects
-- Exploring **advanced cloud deployment** strategies on AWS
-
 ---
 
 <div align="center">
