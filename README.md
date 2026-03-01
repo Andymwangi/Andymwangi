@@ -15,16 +15,6 @@
 
 Results-driven Full Stack Developer from **Nairobi, Kenya** with **3+ years** of experience crafting secure, high-performance web and mobile applications. I specialize in modern JavaScript ecosystems, scalable backend architectures, and delivering measurable business impact through clean, maintainable code.
 
-```typescript
-const anderson = {
-  role:      "Full Stack Developer",
-  location:  "Nairobi, Kenya",
-  focus:     ["Secure Web Apps", "Scalable APIs", "Microservices"],
-  available: ["Freelance", "Full-time", "Open Source Collaboration"],
-  learning:  ["ALX Backend Development", "Advanced System Architecture"],
-};
-```
-
 ---
 
 ## Tech Stack
@@ -78,8 +68,6 @@ const anderson = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=Andymwangi&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 ---
 
