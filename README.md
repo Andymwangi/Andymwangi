@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Anderson%20Mwangi&fontSize=56&fontColor=ffffff&fontAlignY=40&fontStyle=bold&desc=Full%20Stack%20Developer%20%C2%B7%20Nairobi%2C%20Kenya&descSize=18&descAlignY=62&descColor=8b949e" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=160&section=header&text=Anderson%20Mwangi&fontSize=48&fontColor=ffffff&fontAlignY=45&fontStyle=bold&desc=Full%20Stack%20Developer%20%C2%B7%20Nairobi%2C%20Kenya&descSize=16&descAlignY=68&descColor=8b949e" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Andymwangi&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)](https://github.com/Andymwangi)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Andymwangi?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Andymwangi)
-
-<br/>
-
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-mwangi/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andymwangi.dev)
@@ -17,8 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.mitamboo@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
@@ -47,11 +41,9 @@
 <br/>
 
 ```text
-  ▸  FarmData Pod         Agricultural platform   —  payment modules, mobile UI modernisation
-  ▸  Vortex Digital Labs  Cybersecurity & dev     —  building client pipeline, TotalEnergies
-  ▸  Halisi / AmanAI      AI wellness companion   —  NestJS backend, 3-layer memory arch
-  ▸  CoffeeMIS            Gov't enterprise system —  Django · Next.js · React Native monorepo
-  ▸  ShujaLaw             Legal doc automation    —  AI-powered lawyer marketplace platform
+  ▸  FarmData Pod Mobile    Agricultural platform   —  mobile UI modernisation, React Native
+  ▸  Utulivu                AI wellness companion   —  NestJS backend, 3-layer memory architecture
+  ▸  Wakili360               Legal tech platform    —  AI-powered legal document automation
 ```
 
 <br/>
