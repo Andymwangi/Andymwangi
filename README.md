@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Anderson%20Mwangi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Nairobi%2C%20Kenya&descSize=18&descAlignY=60&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Anderson%20Mwangi&fontSize=56&fontColor=ffffff&fontAlignY=40&fontStyle=bold&desc=Full%20Stack%20Developer%20%C2%B7%20Nairobi%2C%20Kenya&descSize=18&descAlignY=62&descColor=8b949e" width="100%"/>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Andymwangi&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)](https://github.com/Andymwangi)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Andymwangi?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github)](https://github.com/Andymwangi)
+[![GitHub followers](https://img.shields.io/github/followers/Andymwangi?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Andymwangi)
 
 <br/>
 
@@ -14,7 +14,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andymwangi.dev)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.mitamboo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.mitamboo@gmail.com)
 
 </div>
 
@@ -22,37 +22,43 @@
 
 ---
 
-## &nbsp;👤&nbsp; About
+<img src="https://img.shields.io/badge/─────────────────────────────%20ABOUT%20─────────────────────────────-0d1117?style=for-the-badge" width="100%"/>
 
 <br/>
 
-- 🏢 &nbsp; **Senior Engineer at Tradecare Africa** — building the FarmData Pod platform for agricultural data management
-- 🔧 &nbsp; **Full-stack** — Next.js · NestJS · React Native · Django · PostgreSQL · TypeScript
-- 🔐 &nbsp; **Focus areas** — secure system architecture, multi-tenant SaaS, RESTful & GraphQL APIs
-- 🛡️ &nbsp; **Security** — pursuing CEH certification · Google Cybersecurity Certificate · CompTIA Security+
-- 🚀 &nbsp; **Founder** — [Vortex Digital Labs](https://andymwangi.dev) · cybersecurity & full-stack consultancy
-- 🤝 &nbsp; **Open to** — freelance projects, open-source collaboration, and USD-denominated contracts
+&nbsp;![Company](https://img.shields.io/badge/Tradecare_Africa-Senior_Engineer-1F6FEB?style=flat-square&logo=briefcase&logoColor=white) &nbsp; Building the **FarmData Pod** platform for agricultural data management at scale
+
+&nbsp;![Stack](https://img.shields.io/badge/Full--Stack-Next.js_·_NestJS_·_React_Native_·_Django_·_PostgreSQL-238636?style=flat-square&logo=stackshare&logoColor=white)
+
+&nbsp;![Focus](https://img.shields.io/badge/Focus-Secure_Architecture_·_Multi--tenant_SaaS_·_GraphQL_APIs-8957e5?style=flat-square&logo=target&logoColor=white)
+
+&nbsp;![Security](https://img.shields.io/badge/Security-CEH_·_Google_Cybersecurity_·_CompTIA_Security%2B-da3633?style=flat-square&logo=shield&logoColor=white)
+
+&nbsp;![Founder](https://img.shields.io/badge/Founder-Vortex_Digital_Labs_%7C_Cybersecurity_%26_Dev_Consultancy-e3b341?style=flat-square&logo=rocket&logoColor=white)
+
+&nbsp;![Open](https://img.shields.io/badge/Open_To-Freelance_Projects_·_Open--Source_·_USD_Contracts-3fb950?style=flat-square&logo=handshake&logoColor=white)
 
 <br/>
 
 ---
 
-## &nbsp;⚡&nbsp; What I'm Working On
+<img src="https://img.shields.io/badge/──────────────────────────%20WHAT%20I'M%20BUILDING%20──────────────────────────-0d1117?style=for-the-badge" width="100%"/>
 
 <br/>
 
 ```text
-▸ FarmData Pod         Agricultural platform — payment modules, mobile UI modernisation
-▸ Vortex Digital Labs  Cybersecurity & dev consultancy — building client pipeline
-▸ Halisi (AmanAI)      AI wellness companion — NestJS backend, 3-layer memory architecture
-▸ CoffeeMIS            Government enterprise system — Django + Next.js + React Native
+  ▸  FarmData Pod         Agricultural platform   —  payment modules, mobile UI modernisation
+  ▸  Vortex Digital Labs  Cybersecurity & dev     —  building client pipeline, TotalEnergies
+  ▸  Halisi / AmanAI      AI wellness companion   —  NestJS backend, 3-layer memory arch
+  ▸  CoffeeMIS            Gov't enterprise system —  Django · Next.js · React Native monorepo
+  ▸  ShujaLaw             Legal doc automation    —  AI-powered lawyer marketplace platform
 ```
 
 <br/>
 
 ---
 
-## &nbsp;🛠️&nbsp; Tech Stack
+<img src="https://img.shields.io/badge/────────────────────────────%20TECH%20STACK%20────────────────────────────-0d1117?style=for-the-badge" width="100%"/>
 
 <br/>
 
@@ -63,15 +69,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Backend**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Data & Infrastructure**
 
@@ -79,19 +87,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Security & Auth**
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CyberOps-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 <br/>
 
 ---
 
-## &nbsp;📊&nbsp; GitHub Stats
+<img src="https://img.shields.io/badge/──────────────────────────%20GITHUB%20ACTIVITY%20──────────────────────────-0d1117?style=for-the-badge" width="100%"/>
 
 <br/>
 
@@ -111,17 +121,28 @@
 
 ---
 
-## &nbsp;🏆&nbsp; Certifications & Learning
+<img src="https://img.shields.io/badge/────────────────────────%20CERTIFICATIONS%20%26%20LEARNING%20────────────────────────-0d1117?style=for-the-badge" width="100%"/>
 
-<br/> 
+<br/>
+
+```text
+  ✦  Cisco CyberOps Associate                   COMPLETED
+  ✦  Certified Ethical Hacker  (CEH)            COMPLETED
+  ◈  Google Cybersecurity Certificate           IN PROGRESS
+  ◈  IBM Cybersecurity Analyst Professional     NEXT
+  ◈  CompTIA Security+                          Q3 2026
+```
+
 <br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
-*Invictus Maneo · andymwangi.dev*
+<br/>
+
+[![Motto](https://img.shields.io/badge/Invictus_Maneo-I_Remain_Unvanquished-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://andymwangi.dev)
 
 </div>
