@@ -138,9 +138,6 @@ AI-powered legal document automation.
 <img src="https://streak-stats.demolab.com?user=Andymwangi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
 
 <br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andymwangi&theme=github-compact&bg_color=0d1117&color=8b949e&line=1F6FEB&point=ffffff&hide_border=true&area=true" />
-
 </div>
 
 <br/>
