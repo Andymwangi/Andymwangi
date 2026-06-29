@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/◆-ABOUT-1F6FEB?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-ABOUT-1F6FEB?style=flat-square&labelColor=0d1117"/>
 
 > Senior Engineer at **Tradecare Africa**, building the *FarmData Pod* platform for agricultural data management at scale. Founder of **Vortex Digital Labs**, a cybersecurity &amp; development consultancy.
 
@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/◆-BUILDING-1F6FEB?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-BUILDING-1F6FEB?style=flat-square&labelColor=0d1117"/>
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ AI-powered legal document automation.
 
 <br/>
 
-<img src="https://img.shields.io/badge/◆-TECH_STACK-1F6FEB?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-TECH_STACK-1F6FEB?style=flat-square&labelColor=0d1117"/>
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ AI-powered legal document automation.
 
 <br/>
 
-<img src="https://img.shields.io/badge/◆-GITHUB_ACTIVITY-1F6FEB?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-GITHUB_ACTIVITY-1F6FEB?style=flat-square&labelColor=0d1117"/>
 
 <div align="center">
 
@@ -145,7 +145,7 @@ AI-powered legal document automation.
 
 <br/>
 
-<img src="https://img.shields.io/badge/◆-CERTIFICATIONS-1F6FEB?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-CERTIFICATIONS-1F6FEB?style=flat-square&labelColor=0d1117"/>
 
 | Certification | Status |
 |---|---|
