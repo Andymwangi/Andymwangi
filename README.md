@@ -71,12 +71,17 @@ Exploring →  Applied AI · Security Engineering · Cloud Architecture
 `CompTIA Security+` → Q3 2026
 
 
-### `$ activity`
+### `$ contributions`
 
-[Repositories](https://github.com/Andymwangi?tab=repositories) ·
-[Contributions](https://github.com/Andymwangi) ·
-[Projects](https://github.com/Andymwangi?tab=projects)
+<div align="center">
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Andymwangi&bg_color=0D1117&color=8B949E&line=2DD4BF&point=F0F6FC&area=true&area_color=2DD4BF&hide_border=true&hide_title=true"
+  width="100%"
+  alt="Anderson Mwangi's GitHub contribution graph"
+/>
+
+</div>
 ---
 
 <div align="center">
