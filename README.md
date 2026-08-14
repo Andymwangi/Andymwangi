@@ -73,15 +73,22 @@ Exploring →  Applied AI · Security Engineering · Cloud Architecture
 
 ### `$ contributions`
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Andymwangi&bg_color=0D1117&color=8B949E&line=2DD4BF&point=F0F6FC&area=true&area_color=2DD4BF&hide_border=true&hide_title=true"
-  width="100%"
-  alt="Anderson Mwangi's GitHub contribution graph"
-/>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Andymwangi/Andymwangi/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Andymwangi/Andymwangi/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Anderson Mwangi's contribution grid"
+      src="https://raw.githubusercontent.com/Andymwangi/Andymwangi/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+</p>
 ---
 
 <div align="center">
