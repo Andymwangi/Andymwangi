@@ -70,13 +70,12 @@ Exploring →  Applied AI · Security Engineering · Cloud Architecture
 `IBM Cybersecurity Analyst` → Next
 `CompTIA Security+` → Q3 2026
 
-### `$ github`
 
-<div align="center">
+### `$ activity`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andymwangi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=8B949E&icon_color=2DD4BF&hide_title=true&rank_icon=github" height="150" />
-
-</div>
+[Repositories](https://github.com/Andymwangi?tab=repositories) ·
+[Contributions](https://github.com/Andymwangi) ·
+[Projects](https://github.com/Andymwangi?tab=projects)
 
 ---
 
