@@ -1,12 +1,12 @@
-<img src="./assets/banner.svg" alt="Anderson Mwangi, Full-Stack Engineer" width="100%" />
+<img src="./assets/banner.png" alt="Anderson Mwangi, Full stack engineer" width="100%" />
 
 <p>
-  <a href="https://andymwangi.dev"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/anderson-mwangi/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=2DD4BF" /></a>
-  <a href="mailto:anderson.mitamboo@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=2DD4BF" /></a>
+  <a href="https://andymwangi.dev"><img src="https://img.shields.io/badge/Portfolio-E8552B?style=flat-square&logo=vercel&logoColor=14110F" /></a>
+  <a href="https://www.linkedin.com/in/anderson-mwangi/"><img src="https://img.shields.io/badge/LinkedIn-1C1815?style=flat-square&logo=linkedin&logoColor=E8552B" /></a>
+  <a href="mailto:anderson.mitamboo@gmail.com"><img src="https://img.shields.io/badge/Email-1C1815?style=flat-square&logo=gmail&logoColor=E8552B" /></a>
 </p>
 
-I build secure, scalable software across web, mobile and APIs. Based in Nairobi, open to USD contracts.
+I build secure, scalable software across web, mobile and APIs. Open to USD contracts.
 
 ### Projects
 
@@ -14,7 +14,7 @@ I build secure, scalable software across web, mobile and APIs. Based in Nairobi,
 | :-- | :-- |
 | **FarmData Pod** | Offline-first agricultural data and field operations. `React Native` `Django` `TypeScript` |
 | **Utulivu** | AI wellness platform with multi-layer memory. `NestJS` `PostgreSQL` |
-| **Wakili360** | AI-assisted legal document automation. `Next.js` `Python` |
+| **Wakili360** | AI-assisted legal document automation. `NestJS` `Next.js` `React Native` `TypeScript` |
 
 ### Stack
 
