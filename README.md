@@ -18,7 +18,25 @@ I build secure, scalable software across web, mobile and APIs. Open to USD contr
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,py,go,react,nextjs,tailwind,nestjs,django,fastapi,graphql,postgres,mongodb,redis,prisma,docker,aws,githubactions&theme=dark" />
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/E8552B" alt="TypeScript" title="TypeScript" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/E8552B" alt="Python" title="Python" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go/E8552B" alt="Go" title="Go" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/E8552B" alt="React" title="React" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/E8552B" alt="Next.js" title="Next.js" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/E8552B" alt="Tailwind CSS" title="Tailwind CSS" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/E8552B" alt="NestJS" title="NestJS" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/django/E8552B" alt="Django" title="Django" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/E8552B" alt="FastAPI" title="FastAPI" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/graphql/E8552B" alt="GraphQL" title="GraphQL" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/E8552B" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/E8552B" alt="MongoDB" title="MongoDB" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/E8552B" alt="Redis" title="Redis" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/E8552B" alt="Prisma" title="Prisma" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/E8552B" alt="Docker" title="Docker" height="32" />&nbsp;&nbsp;
+  <img src="./assets/aws.svg" alt="AWS" title="AWS" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/E8552B" alt="GitHub Actions" title="GitHub Actions" height="32" />
+</p>
 
 <br/>
 
