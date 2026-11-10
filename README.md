@@ -22,11 +22,7 @@ I build secure, scalable software across web, mobile and APIs. Open to USD contr
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andymwangi/Andymwangi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andymwangi/Andymwangi/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution grid" src="https://raw.githubusercontent.com/Andymwangi/Andymwangi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Andymwangi&background=14110F&stroke=3A332C&ring=E8552B&fire=E8552B&currStreakNum=EDE6D8&sideNums=EDE6D8&currStreakLabel=E8552B&sideLabels=B8AFA2&dates=8A8278&hide_border=true" />
 
 ---
 
